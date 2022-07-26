@@ -32,10 +32,10 @@ static const int colorfultag = 1; /* 0 means use SchemeSel for selected non vaca
 #define ICONSPACING 8 /* space between icon and title */
 
 static const char *fonts[] = {"Iosevka:style:medium:size=10", "JetBrainsMono Nerd Font:style:medium:size=12",
-                              "Material Design Icons Desktop:size=14"};
+                              "Material Design Icons Desktop:size=12"};
 
 // theme
-#include "themes/onedark.h"
+#include "themes/catppuccin.h"
 
 static const char *colors[][3] = {
     /*                     fg       bg      border */
@@ -50,7 +50,7 @@ static const char *colors[][3] = {
     [SchemeTag3] = {orange, black, black},
     [SchemeTag4] = {green, black, black},
     [SchemeTag5] = {pink, black, black},
-    [SchemeTag5] = {yellow, black, black},
+    [SchemeTag6] = {yellow, black, black},
     [SchemeLayout] = {green, black, black},
     [SchemeBtnPrev] = {green, black, black},
     [SchemeBtnNext] = {yellow, black, black},
@@ -68,7 +68,7 @@ static const Launcher launchers[] = {
 };
 
 static const int tagschemes[] = {
-    SchemeTag1, SchemeTag2, SchemeTag3, SchemeTag4, SchemeTag5};
+    SchemeTag1, SchemeTag2, SchemeTag3, SchemeTag4, SchemeTag5, SchemeTag6};
 
 static const unsigned int ulinepad = 5;     /* horizontal padding between the underline and tag */
 static const unsigned int ulinestroke = 2;  /* thickness / height of the underline */
