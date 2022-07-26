@@ -104,6 +104,7 @@ enum
   SchemeTag3,
   SchemeTag4,
   SchemeTag5,
+  SchemeTag6,
   SchemeLayout,
   TabSel,
   TabNorm,
