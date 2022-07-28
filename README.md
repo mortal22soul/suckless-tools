@@ -1,3 +1,16 @@
+## Overview
+- **Operating System** : [**`Linux Mint`**](https://linuxmint.com/)
+- **Window Manager** : [**`DWM`**](https://github.com/siduck/chadwm)
+- **Launcher** : [**`Rofi`**](https://github.com/davatorium/rofi)
+- **Notifications** : [**`Dunst`**](https://github.com/dunst-project/dunst)
+- **Lockscreen** : [**`i3lock-color`**](https://github.com/Raymo111/i3lock-color)
+- **Compositor** : [**`picom`**](https://github.com/pijulius/picom)
+- **Terminal** : [**`st`**](https://github.com/siduck/st)
+- **File Manager** : `Thunar`
+- **Text Editor** : `Visual Studio Code,xed,vim`
+- **Web Browser** : `Brave`
+- **Music player** : `spotify,ncmpcpp`
+
 ## Showcase
 <image src="assets/chadwm_eww.jpg" alt="">
 <image src="assets/chadwm_vanilla.jpg" alt="">
@@ -7,4 +20,4 @@
 
 #### Credits
 - [siduck](https://github.com/siduck)
-- [me :D](https://github.com/Mortal22Soul)
+- [me](https://github.com/Mortal22Soul) :sweat_smile:
