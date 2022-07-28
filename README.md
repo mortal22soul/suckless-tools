@@ -6,8 +6,9 @@
 - **Lockscreen** : [**`i3lock-color`**](https://github.com/Raymo111/i3lock-color)
 - **Compositor** : [**`picom`**](https://github.com/pijulius/picom)
 - **Terminal** : [**`st`**](https://github.com/siduck/st)
+- **Widgets** : [**`eww`**](https://github.com/Mortal22Soul/dotfiles/tree/main/config/eww)
 - **File Manager** : `Thunar`
-- **Text Editor** : `Visual Studio Code,xed,vim`
+- **Editor** : `VS Code,xed,vim`
 - **Web Browser** : `Brave`
 - **Music player** : `spotify,ncmpcpp`
 
